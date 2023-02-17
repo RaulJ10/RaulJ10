@@ -1,6 +1,5 @@
 
 
-![svg](https://raw.githubusercontent.com/RaulJ10/github-profile-3d-contrib/main/docs/profile-night-view.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulJ10&theme=algolia&show_icons=true)
 
